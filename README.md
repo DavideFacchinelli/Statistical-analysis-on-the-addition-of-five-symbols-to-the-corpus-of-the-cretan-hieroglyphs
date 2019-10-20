@@ -2,4 +2,4 @@ In this repository you can find my analysis about the inclusion or not of a set 
 
 In the repository you can find the .Rmd file used to do all the analysis and the .md file that show the results. The .csv file contains the data used in the analysis. The different folders contain files used to build the final file.
 
-I thank for the help in informatizing and perparing the data Adriano Fragomeni, Eleonora Grassucci, Livia Biggi and Riccardo Gobbo.
+I thank for the help in digitalizing and perparing the data Adriano Fragomeni, Eleonora Grassucci, Livia Biggi and Riccardo Gobbo.
